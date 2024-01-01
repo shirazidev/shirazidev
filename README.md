@@ -31,9 +31,10 @@ Here are some of the notable projects I've worked on:
 
 Feel free to reach out to me through the following channels:
 
-- Email: your.email@example.com
-- LinkedIn: [Amirhossein Shirazi]((https://www.linkedin.com/in/amirhossein-shirazi/))
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: info@shirazidev.ir
+- LinkedIn: [Amirhossein Shirazi](https://www.linkedin.com/in/amirhossein-shirazi/)
+- GitHub: [github.com/shirazidev](https://github.com/shirazidev)
+- X (Twitter): [AmirHossein Shirazi]([https://github.com/shirazidev](https://twitter.com/shirazidev))
 
 ## Let's Connect!
 
