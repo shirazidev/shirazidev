@@ -18,14 +18,7 @@ Hello! I'm Amirhossein Shirazi, a passionate software developer with expertise i
 - **WordPress:** As a WordPress programmer, I customize and extend WordPress functionality to meet specific project requirements.
 
 - **HTML/CSS/Bootstrap:** I design and implement responsive and visually appealing web interfaces using HTML, CSS, and Bootstrap.
-
-## Projects
-
-Here are some of the notable projects I've worked on:
-
-1. Project Name 1 - Brief description and link (if public)
-2. Project Name 2 - Brief description and link (if public)
-3. ...
+  
 
 ## Contact
 
