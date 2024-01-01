@@ -34,11 +34,13 @@ Feel free to reach out to me through the following channels:
 - Email: info@shirazidev.ir
 - LinkedIn: [Amirhossein Shirazi](https://www.linkedin.com/in/amirhossein-shirazi/)
 - GitHub: [github.com/shirazidev](https://github.com/shirazidev)
-- X (Twitter): [AmirHossein Shirazi]([https://github.com/shirazidev](https://twitter.com/shirazidev))
+- X (Twitter): [AmirHossein Shirazi](https://twitter.com/shirazidev)
 
 ## Let's Connect!
 
 I'm always open to interesting projects and collaborations. Let's connect and explore the possibilities together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirhossein-shirazi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shirazidev)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/shirazidev)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://instagram.com/amirhossein_shirazi)
