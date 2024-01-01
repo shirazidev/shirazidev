@@ -39,7 +39,7 @@ Feel free to reach out to me through the following channels:
 ## Let's Connect!
 
 I'm always open to interesting projects and collaborations. Let's connect and explore the possibilities together!
-
+[![ShiraziDEV.ir](https://img.shields.io/badge/Shirazidev-Link-orange)](https://shirazidev.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirhossein-shirazi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shirazidev)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/shirazidev)
