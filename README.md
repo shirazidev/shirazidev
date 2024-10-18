@@ -1,42 +1,24 @@
-# Amirhossein Shirazi
+<h1 align="center">Hi 👋, I'm AmirHossein Shirazi</h1>
+<h3 align="center">A backend developer from Iran</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shirazidev&label=Profile%20views&color=0e75b6&style=flat" alt="shirazidev" /> </p>
 
-Hello! I'm Amirhossein Shirazi, a passionate software developer with expertise in various technologies. I specialize in:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirazidev" alt="shirazidev" /></a> </p>
 
-- Django development
-- Python programming
-- WordPress customization
-- HTML/CSS/Bootstrap web development
+<p align="left"> <a href="https://twitter.com/shirazidev" target="blank"><img src="https://img.shields.io/twitter/follow/shirazidev?logo=twitter&style=for-the-badge" alt="shirazidev" /></a> </p>
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shirazidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirazidev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amirhossein_shirazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein_shirazi" height="30" width="40" /></a>
+<a href="https://instagram.com/amirhossein_shirazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirhossein_shirazi" height="30" width="40" /></a>
+</p>
 
-- **Django:** As a Django developer, I create robust and scalable web applications using the Django framework.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-- **Python:** With proficiency in Python, I develop efficient and elegant solutions for a wide range of projects.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirazidev&show_icons=true&locale=en&layout=compact" alt="shirazidev" /></p>
 
-- **WordPress:** As a WordPress programmer, I customize and extend WordPress functionality to meet specific project requirements.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirazidev&show_icons=true&locale=en" alt="shirazidev" /></p>
 
-- **HTML/CSS/Bootstrap:** I design and implement responsive and visually appealing web interfaces using HTML, CSS, and Bootstrap.
-
-## Tech Stacks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) 
-## Contact
-
-Feel free to reach out to me through the following channels:
-
-- Email: info@shirazidev.ir
-- LinkedIn: [Amirhossein Shirazi](https://www.linkedin.com/in/amirhossein-shirazi/)
-- GitHub: [github.com/shirazidev](https://github.com/shirazidev)
-- X (Twitter): [AmirHossein Shirazi](https://twitter.com/shirazidev)
-
-## Let's Connect!
-
-I'm always open to interesting projects and collaborations. Let's connect and explore the possibilities together!
-
-[![ShiraziDEV.ir](https://img.shields.io/badge/Shirazidev-Link-orange)](https://shirazidev.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirhossein-shirazi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shirazidev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/shirazidev)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://instagram.com/amirhossein_shirazi)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirazidev&" alt="shirazidev" /></p>
