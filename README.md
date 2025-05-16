@@ -1,5 +1,23 @@
+<!-- 
+SEO Metadata
+Name: Amirhossein Shirazi | امیرحسین شیرازی
+GitHub: shirazidev
+Keywords: امیرحسین شیرازی, shirazidev, برنامه نویس جنگو, توسعه‌دهنده بک‌اند, دولوپر ایرانی, توسعه‌دهنده Node.js, متخصص جنگو
+-->
+
 # 💫 About Me:
-🔭 I’m currently working on Django, Django RestFrameWork, NodeJS, Express.js, Docker.<br>🌱 I’m currently learning Nest.js.<br>
+
+🔭 I’m currently working on Django, Django RestFrameWork, NodeJS, Express.js, Docker.<br>
+🌱 I’m currently learning Nest.js.<br>
+
+---
+
+### 👋 درباره من (Persian Intro):
+
+سلام! من **امیرحسین شیرازی** (Amirhossein Shirazi) هستم، برنامه‌نویس بک‌اند و توسعه‌دهنده نرم‌افزار با تجربه در جنگو (Django)، نود.جی‌اس (Node.js)، داکر (Docker) و ابزارهای متنوع دیگر.  
+در حال حاضر در حال یادگیری Nest.js هستم و به توسعه و یادگیری مداوم علاقه‌مندم.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhossein_shirazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein_shirazi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/irlast) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shirazidev) 
