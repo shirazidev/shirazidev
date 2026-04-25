@@ -17,9 +17,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shirazidev&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shirazidev&icon=10&color=2)](https://visitcount.itsvg.in)
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirazidev/shirazidev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shirazidev/shirazidev/output/github-contribution-grid-snake.svg" />
