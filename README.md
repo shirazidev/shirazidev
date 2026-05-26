@@ -94,24 +94,7 @@ fmt.Printf("Building secure, production-ready systems. %+v\n", amirhossein)
 ### 📊 `system_metrics.sh`
 
 <div align="center">
-  <table style="background-color: transparent; border: none;">
-<tr>
-<td align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=shirazidev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirazidev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</td>
-</tr>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://nirzak-streak-stats.vercel.app/?user=shirazidev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</td>
-<td align="center" style="border: none;">
-<img src="https://github-contributor-stats.vercel.app/api?username=shirazidev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</td>
-</tr>
-  </table>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=shirazidev)](https://git.io/streak-stats)
 </div>
 
 ---
