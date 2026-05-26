@@ -93,17 +93,6 @@ fmt.Printf("Building secure, production-ready systems. %+v\n", amirhossein)
 
 ### 📊 `system_metrics.sh`
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=shirazidev)](https://git.io/streak-stats)
-</div>
 
----
-
-<!-- <div align="center">
-  <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirazidev/shirazidev/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shirazidev/shirazidev/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/shirazidev/shirazidev/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shirazidev&theme=highcontrast)](https://git.io/streak-stats)
 
