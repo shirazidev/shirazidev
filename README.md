@@ -94,5 +94,5 @@ fmt.Printf("Building secure, production-ready systems. %+v\n", amirhossein)
 ### 📊 `system_metrics.sh`
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shirazidev&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shirazidev&theme=dark)](https://git.io/streak-stats)
 
